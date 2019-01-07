@@ -3,8 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <script>
+    	function setting(var isKill) {
+
+    	};
+
         onload = function () {
             var isKill = '0';
+            setting(isKill);
             window.webkit.messageHandlers.setting.postMessage(isKill);
         };
     </script>
