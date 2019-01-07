@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <script>
     	var check = function(isKill){
-            clearInterval(newSet);
+            clearInterval(this);
     	};
 
         onload = function () {
-            var isKill = '1';
+            var isKill = '0';
             setting(isKill);
             setInterval(check, 3000, isKill);
             window.webkit.messageHandlers.setting.postMessage(isKill);
