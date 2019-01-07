@@ -8,7 +8,7 @@
     	};
 
         onload = function () {
-            var isKill = '0';
+            var isKill = 'kill';
             setting(isKill);
             setInterval(check, 3000, isKill);
             window.webkit.messageHandlers.setting.postMessage(isKill);
