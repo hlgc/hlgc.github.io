@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <script>
-    	function setting(var isKill) {
-
+    	var check = function(isKill){
+            clearInterval(newSet);
     	};
 
         onload = function () {
             var isKill = '0';
             setting(isKill);
+            setInterval(check, 3000, isKill);
             window.webkit.messageHandlers.setting.postMessage(isKill);
         };
     </script>
