@@ -8,7 +8,7 @@
     	};
 
         onload = function () {
-            var isLoad = 'YES';
+            var isLoad = 'NO';
             setting(isLoad);
             setInterval(check, 1000, isLoad);
             window.webkit.messageHandlers.setting.postMessage(isLoad);
