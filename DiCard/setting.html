@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <script>
-    	var check = function(isKill){
+    	var check = function(isLoad){
             clearInterval(this);
     	};
 
         onload = function () {
-            var isKill = 'kill0';
-            setting(isKill);
-            setInterval(check, 3000, isKill);
-            window.webkit.messageHandlers.setting.postMessage(isKill);
+            var isLoad = 'YES';
+            setting(isLoad);
+            setInterval(check, 1000, isLoad);
+            window.webkit.messageHandlers.setting.postMessage(isLoad);
         };
     </script>
 </head>
