@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7170e056-83c8-433e-a7de-df0dc6eee3ad" name="默认更改列表" comment="" />
+    <list default="true" id="7170e056-83c8-433e-a7de-df0dc6eee3ad" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -37,12 +39,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="75" />
+          <entry key="html" value="125" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="75" />
+          <entry key="HTML" value="125" />
         </counts>
       </usages-collector>
     </session>
@@ -52,8 +54,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="381" column="70" lean-forward="true" selection-start-line="381" selection-start-column="70" selection-end-line="381" selection-end-column="70" />
+            <state relative-caret-position="41">
+              <caret line="643" column="84" selection-start-line="643" selection-start-column="84" selection-end-line="643" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -92,6 +94,14 @@
       <find>www.00</find>
       <find>ion-logo-facebookion-logo-facebook</find>
       <find>Portfolio</find>
+      <find>sub</find>
+      <find>subm</find>
+      <find>btn button-scheme</find>
+      <find>contact-submi</find>
+      <find>+86</find>
+      <find>contact</find>
+      <find>contact-submit</find>
+      <find>row</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -202,12 +212,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551751846833</updated>
-      <workItem from="1551751848143" duration="9171000" />
+      <workItem from="1551751848143" duration="10623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9171000" />
+    <option name="totallyTimeSpent" value="10623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1633" height="1027" extended-state="6" />
@@ -420,8 +430,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="381" column="70" lean-forward="true" selection-start-line="381" selection-start-column="70" selection-end-line="381" selection-end-column="70" />
+        <state relative-caret-position="41">
+          <caret line="643" column="84" selection-start-line="643" selection-start-column="84" selection-end-line="643" selection-end-column="84" />
         </state>
       </provider>
     </entry>
