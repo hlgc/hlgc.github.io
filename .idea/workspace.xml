@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7170e056-83c8-433e-a7de-df0dc6eee3ad" name="默认更改列表" comment="">
-      <change beforePath="$PROJECT_DIR$/img/item-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/item-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/item-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/item-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/item-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/item-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/item-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/item-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/item-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/item-5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7170e056-83c8-433e-a7de-df0dc6eee3ad" name="默认更改列表" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -209,12 +202,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551751846833</updated>
-      <workItem from="1551751848143" duration="8915000" />
+      <workItem from="1551751848143" duration="9171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8915000" />
+    <option name="totallyTimeSpent" value="9171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1633" height="1027" extended-state="6" />
